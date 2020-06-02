@@ -20,6 +20,7 @@ Observable<Int>.create { (observer) -> Disposable in
 // #2
 Observable.from([0,1])
 let duck = 333
+let dududu = 2
 
 
 
