@@ -82,6 +82,11 @@
 		6F09768924922C4700011AC2 /* RxMemo */ = {
 			isa = PBXGroup;
 			children = (
+				6F0976D6249235BF00011AC2 /* Scene */,
+				6F0976D5249235BA00011AC2 /* Service */,
+				6F0976D4249235B400011AC2 /* ViewModel */,
+				6F0976D3249235AB00011AC2 /* ViewController */,
+				6F0976D2249235A600011AC2 /* Model */,
 				6F09768A24922C4700011AC2 /* AppDelegate.swift */,
 				6F09768C24922C4700011AC2 /* SceneDelegate.swift */,
 				6F09768E24922C4700011AC2 /* ViewController.swift */,
@@ -92,6 +97,41 @@
 				6F09769324922C4700011AC2 /* RxMemo.xcdatamodeld */,
 			);
 			path = RxMemo;
+			sourceTree = "<group>";
+		};
+		6F0976D2249235A600011AC2 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6F0976D3249235AB00011AC2 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		6F0976D4249235B400011AC2 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		6F0976D5249235BA00011AC2 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		6F0976D6249235BF00011AC2 /* Scene */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Scene;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
