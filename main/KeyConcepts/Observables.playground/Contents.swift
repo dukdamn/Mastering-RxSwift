@@ -31,7 +31,5 @@ Observable<Int>.of(1,2,3,4)
 }
 .disposed(by: beg)
 
-let test = 123123
-
 
 
