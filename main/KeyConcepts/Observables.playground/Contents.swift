@@ -23,7 +23,7 @@ Observable<Int>.create { (observer) -> Disposable in
 Observable.from([0,1])
 let duck = 1234
 
-
+1234
 
 Observable<Int>.of(1,2,3,4)
   .subscribe { (check) in
