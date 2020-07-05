@@ -8,4 +8,7 @@ target 'RxMemo' do
   # Pods for RxMemo
   pod 'SnapKit'
   pod 'RxSwift'
+  pod 'Then'
+  pod 'RxCocoa'
+  pod 'NSObject+Rx'
 end
